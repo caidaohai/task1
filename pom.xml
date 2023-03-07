@@ -264,7 +264,7 @@
         <configuration>
           <verbose>true</verbose>
           <overwrite>true</overwrite>
-          <configurationFile>/src/main/resources/generatorConfig.xml</configurationFile>
+          <configurationFile>/eclipse-workspace/task1/src/main/resources/generatorConfig.xml</configurationFile>
         </configuration>
       </plugin>
       
